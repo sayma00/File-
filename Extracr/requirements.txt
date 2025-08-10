@@ -1,0 +1,5 @@
+﻿pillow
+pytesseract
+opencv-python
+psycopg2-binary
+python-dotenv
